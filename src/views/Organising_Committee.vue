@@ -1,4 +1,4 @@
-```vue
+
 <template>
   <div class="col-xl-12 col-md-12">
     <div class="row mt-2 mb-5 pb-3 mx-2">
